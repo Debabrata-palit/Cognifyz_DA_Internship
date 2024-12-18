@@ -48,8 +48,8 @@ Welcome to my **Restaurant Data Analysis** project, completed as part of my Data
 
 ## 🛠️ Tools and Technologies
 - **Languages:** Python 🐍  
-- **Libraries:** Pandas, Matplotlib, Seaborn, Plotly  
-- **Techniques:** Data Cleaning, Visualization, Correlation Analysis, Clustering  
+- **Libraries:** Pandas, Matplotlib, Seaborn, Plotly, Sklearn  
+- **Techniques:** Data Cleaning, Visualization, Exploratory Data Analysis, Clustering  
 
 ---
 
