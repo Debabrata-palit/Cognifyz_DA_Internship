@@ -54,4 +54,4 @@ Welcome to my **Restaurant Data Analysis** project, completed as part of my Data
 ---
 
 ## 🚀 About Me
-I am a Data Analyst enthusiast with a passion for uncovering actionable insights from data. This project is a reflection of my journey during the Cognifyz Technologies Internship. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/debabrata-palit).
+I am a Data Analyst enthusiast with a passion for uncovering actionable insights from data. This project is a reflection of my journey during the Cognifyz Technologies Internship. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/debabrata-palit03).
